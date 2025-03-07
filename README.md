@@ -7,6 +7,7 @@ ___
 ### **Dataset**
 
 * Polite & Impolite Sentences (4000 total): Extracted from the KeiCo corpus, where all sentences are pre-labeled based on politeness levels.
+(https://aclanthology.org/2022.dclrl-1.3/)
 
 * Neutral Sentences (2000 total): Collected from Japanese Wikipedia, manually filtered to remove non-sentence lines like noun phrases and mathematical formulas.
 
