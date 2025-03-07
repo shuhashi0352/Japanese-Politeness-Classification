@@ -9,7 +9,7 @@ ___
 * Polite & Impolite Sentences (4000 total): Extracted from the KeiCo corpus(https://aclanthology.org/2022.dclrl-1.3/), where all sentences are pre-labeled based on politeness levels.
 
 
-* (Neutral Sentences(https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Models/data_collection.ipynb)) (2000 total): Collected from Japanese Wikipedia, manually filtered to remove non-sentence lines like noun phrases and mathematical formulas.
+* Neutral Sentences ([Check the script](https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Models/data_collection.ipynb)) (2000 total): Collected from Japanese Wikipedia, manually filtered to remove non-sentence lines like noun phrases and mathematical formulas.
 
 * The dataset was split into 80% training, 10% validation, and 10% test sets.
 ___
