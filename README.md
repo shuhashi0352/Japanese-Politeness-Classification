@@ -51,3 +51,5 @@ ___
 * Exploration of contextual influences on politeness classification.
 
 * Testing with alternative Japanese BERT-based models for comparison.
+___
+See more details: [paper](https://github.com/shuhashi0352/Japanese-Politeness-Classification/blob/main/Automatic_Politeness_Classification_in_Japanese_Text.pdf)
