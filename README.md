@@ -29,12 +29,11 @@ ___
 
 **Performance Metrics:**
 
-  Test Accuracy: 0.9783
-  
-  Validation Accuracy: 0.9833
-  
-  Training Loss (Epoch 3): 0.073
-
+| Metric               | Value   |
+|----------------------|---------|
+| Test Accuracy        | 0.9783  |
+| Validation Accuracy  | 0.9833  |
+| Final Training Loss  | 0.073   |
 ___
 ### **Dependencies**
 
